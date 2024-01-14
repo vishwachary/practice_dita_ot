@@ -7,5 +7,5 @@ customizations
    =============================
 customizations
 1) Add water mark
-2) Add bg color for <note> element.
-3) Add bg color to <code> block.
+2) Add bg color for NOTE element.
+3) Add bg color to CODE block.
