@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../org.dita.base/xsl/common/strings.rnc" type="application/relax-ng-compact-syntax"?>
+<variables>
+<!-- To restore finger image used before 2.2, reference the image: Configuration/OpenTopic/cfg/common/artwork/hand.gif -->
+  <!-- Image path to use for a note of "note" type. -->
+  <variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.jpg</variable>
+</variables>
