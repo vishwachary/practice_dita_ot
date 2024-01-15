@@ -6,6 +6,6 @@ customizations
    feature/using_css  - new branch
    =============================
 additional customizations
-1) Add water mark
+1) Add water mark   -https://www.oxygenxml.com/doc/versions/26.0/ug-editor/topics/add-watermark-pdf-output.html
 2) Add bg color for NOTE element.
 3) Add bg color to CODE block.
