@@ -5,3 +5,5 @@ customizations
 
 
 http://metadita.org/toolkit/toolkit-plugins.html
+
+https://github.com/robander/metadita
